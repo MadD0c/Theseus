@@ -3,6 +3,6 @@ printer-*.cfg
 /.theme
 /macros
 variables.cfg
-timnelapse.cfg
+timelapse.cfg
 octoeverywhere*.*
 /backup
