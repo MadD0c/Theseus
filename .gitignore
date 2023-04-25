@@ -1,0 +1,8 @@
+*.bkp
+printer-*.cfg
+/.theme
+/macros
+variables.cfg
+timnelapse.cfg
+octoeverywhere*.*
+/backup
